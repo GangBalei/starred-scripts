@@ -1,0 +1,11 @@
+# 目录说明
+
+这个仓库用于汇总和收集数字后端常见的 Tcl 脚本。实际内容会由 import_and_collect.sh 自动生成到 collected/ 中。
+
+- collected/flow/01_synthesis
+- collected/flow/02_floorplan
+- collected/flow/03_cts
+- collected/flow/04_placement
+- collected/flow/05_routing
+- collected/flow/06_timing
+- collected/tools/tcl
